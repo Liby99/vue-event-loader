@@ -1,6 +1,6 @@
 {
   "name": "vue-event-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue Event Loader and Broadcast Support",
   "main": "index.js",
   "directories": {
