@@ -8,6 +8,23 @@ event broadcasting. It's very light-weight and efficient.
 There are two main functionalities in vue-event-loader. The first one is event
 registration, and the second is event broadcast.
 
+## Installation
+
+You can use NPM to install vue-event-loader:
+
+``` bash
+$ npm install vue-event-loader
+```
+
+After installation, you need to `use` vue-event-loader to include this plugin
+for VueJs:
+
+``` js
+Vue.use(require("vue-event-loader"));
+```
+
+## Introduction
+
 ### Event Registration
 
 In your regular VueJs component setup, along with all the original data, methods
